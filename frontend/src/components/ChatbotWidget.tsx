@@ -11,7 +11,6 @@
 
 // export default ChatbotWidget;
 
-import React from 'react';
 
 type ChatbotWidgetProps = {
   onClick: () => void;
