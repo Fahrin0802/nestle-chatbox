@@ -22,7 +22,7 @@
 
 // export default App;
 
-import React, { useState } from 'react';
+import { useState } from 'react';
 import ChatbotWidget from './components/ChatbotWidget';
 import ChatWindow from './components/ChatWindow';
 
