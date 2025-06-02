@@ -1,15 +1,4 @@
-// import React from 'react';
 
-// const ChatbotWidget = ({ onClick }: { onClick: () => void }) => (
-//   <div
-//     onClick={onClick}
-//     className="fixed bottom-4 right-4 bg-blue-600 text-white p-4 rounded-full shadow-lg cursor-pointer hover:bg-blue-700 transition"
-//   >
-//     💬
-//   </div>
-// );
-
-// export default ChatbotWidget;
 
 
 type ChatbotWidgetProps = {
